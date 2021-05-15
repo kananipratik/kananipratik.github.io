@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
 
-You can use the [editor on GitHub](https://github.com/kananipratik/kananipratik.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center>
 
-### Markdown
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</center>
 
-```markdown
-Syntax highlighted code block
+<h3 align="center">
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+</h3>
 
-# Header 1
-## Header 2
-### Header 3
+## TL;DR
 
-- Bulleted
-- List
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
-1. Numbered
-2. List
+## Built With
 
-**Bold** and _Italic_ and `Code` text
+My personal portfolio <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-[Link](url) and ![Image](src)
-```
+This project was built using these technologies.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- React.js
+- Node.js
+- Express.js
+- CSS3
+- VsCode
+- Vercel
 
-### Jekyll Themes
+## Features
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kananipratik/kananipratik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**📖 Multi-Page Layout**
 
-### Support or Contact
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**📱 Fully Responsive**
+
+## Getting Started
+
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+
+## 🛠 Installation and Setup Instructions
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
+
+## Usage Instructions
+
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
+
+### Show your support
+
+Give a ⭐ if you like this website!
