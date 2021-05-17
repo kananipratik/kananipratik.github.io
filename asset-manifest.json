@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4ecd58b.chunk.css",
+    "main.css": "/static/css/main.a5886e5b.chunk.css",
     "main.js": "/static/js/main.6f333bb1.chunk.js",
     "main.js.map": "/static/js/main.6f333bb1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.884b346d.js",
@@ -12,7 +12,7 @@
     "static/js/3.c5a75890.chunk.js.map": "/static/js/3.c5a75890.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.d4ecd58b.chunk.css.map": "/static/css/main.d4ecd58b.chunk.css.map",
+    "static/css/main.a5886e5b.chunk.css.map": "/static/css/main.a5886e5b.chunk.css.map",
     "static/js/2.61ef2369.chunk.js.LICENSE.txt": "/static/js/2.61ef2369.chunk.js.LICENSE.txt",
     "static/media/Pratik_Kanani_Resume.1ba0f015.pdf": "/static/media/Pratik_Kanani_Resume.1ba0f015.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.884b346d.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.61ef2369.chunk.js",
-    "static/css/main.d4ecd58b.chunk.css",
+    "static/css/main.a5886e5b.chunk.css",
     "static/js/main.6f333bb1.chunk.js"
   ]
 }
